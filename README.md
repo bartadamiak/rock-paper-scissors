@@ -1,3 +1,3 @@
 Challange from https://frontendmentor.io/
 
-My version: https://cutt.ly/LcUkR4Z
+My version: http://bartadamiak.site/rock-paper-scissors/
